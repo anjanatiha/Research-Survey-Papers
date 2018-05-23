@@ -1,0 +1,572 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2013.12.16)  7 APR 2014 23:38
+entering extended mode
+**E:/Academic/2014/survey/report/mail/report.tex
+(E:/Academic/2014/survey/report/mail/report.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+(G:\miktex\tex\latex\base\report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(G:\miktex\tex\latex\base\size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(G:\miktex\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(G:\miktex\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(G:\miktex\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(G:\miktex\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(G:\miktex\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(G:\miktex\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(G:\miktex\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(G:\miktex\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(G:\miktex\tex\latex\tools\indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(G:\miktex\tex\latex\geometry\geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(G:\miktex\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(G:\miktex\tex\generic\oberdiek\ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(G:\miktex\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen105
+\Gm@wd@mp=\dimen106
+\Gm@odd@mp=\dimen107
+\Gm@even@mp=\dimen108
+\Gm@layoutwidth=\dimen109
+\Gm@layoutheight=\dimen110
+\Gm@layouthoffset=\dimen111
+\Gm@layoutvoffset=\dimen112
+\Gm@dimlist=\toks15
+
+(G:\miktex\tex\latex\geometry\geometry.cfg))
+(G:\miktex\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(E:\Academic\2014\survey\report\mail\report.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+
+(G:\miktex\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen114
+\MPnumerator=\count96
+\everyMPtoPDFconversion=\toks17
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=591.5302pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 27--33
+
+ []
+
+[1] (E:\Academic\2014\survey\report\mail\report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
+\tf@toc=\write3
+ [1
+
+]
+Chapter 1.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 47.
+(G:\miktex\tex\latex\base\omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 47.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--54
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--75
+
+ []
+
+[2
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 78--84
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 87--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--98
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--117
+
+ []
+
+
+Overfull \hbox (22.72882pt too wide) in paragraph at lines 118--125
+\OT1/cmr/m/n/10 ing.They ren-der stor-age, pro-cess-ing power, net-work ca-pac-
+ity and other hard-ware re-sources as ser-vice.Customers
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--134
+
+ []
+
+[3] <images/as.png, id=22, 735.2268pt x 355.5684pt>
+File: images/as.png Graphic file (type png)
+ <use images/as.png>
+Package pdftex.def Info: images/as.png used on input line 138.
+(pdftex.def)             Requested size: 220.56973pt x 106.67134pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--155
+
+ []
+
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
+
+ []
+
+[4 <E:/Academic/2014/survey/report/mail/images/as.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 173--182
+
+ []
+
+<images/rou.png, id=28, 665.8476pt x 358.4592pt>
+File: images/rou.png Graphic file (type png)
+ <use images/rou.png>
+Package pdftex.def Info: images/rou.png used on input line 195.
+(pdftex.def)             Requested size: 199.75581pt x 107.53857pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--207
+
+ []
+
+[5 <E:/Academic/2014/survey/report/mail/images/rou.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
+
+ []
+
+<images/table1.png, id=34, 661.9932pt x 245.718pt>
+File: images/table1.png Graphic file (type png)
+ <use images/table1.png>
+Package pdftex.def Info: images/table1.png used on input line 216.
+(pdftex.def)             Requested size: 330.99579pt x 122.85869pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 225--233
+
+ []
+
+<images/table2.jpg, id=35, 583.9416pt x 541.5432pt>
+File: images/table2.jpg Graphic file (type jpg)
+ <use images/table2.jpg>
+Package pdftex.def Info: images/table2.jpg used on input line 237.
+(pdftex.def)             Requested size: 175.18382pt x 162.4642pt.
+
+[6 <E:/Academic/2014/survey/report/mail/images/table1.png>] [7 <E:/Academic/201
+4/survey/report/mail/images/table2.jpg>]
+Chapter 2.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--263
+
+ []
+
+<images/Hadoop.jpg, id=44, 614.295pt x 346.29375pt>
+File: images/Hadoop.jpg Graphic file (type jpg)
+ <use images/Hadoop.jpg>
+Package pdftex.def Info: images/Hadoop.jpg used on input line 267.
+(pdftex.def)             Requested size: 430.00356pt x 242.40396pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 272--276
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 279--287
+
+ []
+
+[8
+
+] <images/amazon.jpg, id=48, 614.295pt x 400.49625pt>
+File: images/amazon.jpg Graphic file (type jpg)
+
+<use images/amazon.jpg>
+Package pdftex.def Info: images/amazon.jpg used on input line 291.
+(pdftex.def)             Requested size: 307.14674pt x 200.24763pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 301--302
+
+ []
+
+[9 <E:/Academic/2014/survey/report/mail/images/Hadoop.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 304--307
+
+ []
+
+<images/architecture.jpg, id=52, 372.4314pt x 481.3182pt>
+File: images/architecture.jpg Graphic file (type jpg)
+
+<use images/architecture.jpg>
+Package pdftex.def Info: images/architecture.jpg used on input line 311.
+(pdftex.def)             Requested size: 223.46056pt x 288.79315pt.
+ [10 <E:/Academic/2014/survey/report/mail/images/amazon.jpg>] [11 <E:/Academic/
+2014/survey/report/mail/images/architecture.jpg>]
+Chapter 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 332--334
+
+ []
+
+[12
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 352--371
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 372--375
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--381
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 388--392
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 400--402
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 404--412
+
+ []
+
+<images/table3.jpg, id=67, 505.4082pt x 613.3314pt>
+File: images/table3.jpg Graphic file (type jpg)
+ <use images/table3.jpg>
+Package pdftex.def Info: images/table3.jpg used on input line 417.
+(pdftex.def)             Requested size: 242.59317pt x 294.39572pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--430
+
+ []
+
+[14] [15 <E:/Academic/2014/survey/report/mail/images/table3.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 432--435
+
+ []
+
+[16]
+Chapter 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 448--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 455--456
+
+ []
+
+<images/multipath_fading.jpg, id=77, 730.73pt x 263.98625pt>
+File: images/multipath_fading.jpg Graphic file (type jpg)
+
+<use images/multipath_fading.jpg>
+Package pdftex.def Info: images/multipath_fading.jpg used on input line 468.
+(pdftex.def)             Requested size: 365.3641pt x 131.9928pt.
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ì in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 473--477
+
+ []
+
+[17
+
+] <images/expansion.jpg, id=82, 500.1084pt x 367.6134pt>
+File: images/expansion.jpg Graphic file (type jpg)
+
+<use images/expansion.jpg>
+Package pdftex.def Info: images/expansion.jpg used on input line 487.
+(pdftex.def)             Requested size: 250.05359pt x 183.80624pt.
+ [18 <E:/Academic/2014/survey/report/mail/images/multipath_fading.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+<images/interference.png, id=86, 266.9172pt x 290.5254pt>
+File: images/interference.png Graphic file (type png)
+
+<use images/interference.png>
+Package pdftex.def Info: images/interference.png used on input line 500.
+(pdftex.def)             Requested size: 133.45827pt x 145.26234pt.
+ [19 <E:/Academic/2014/survey/report/mail/images/expansion.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 506--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 513--514
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--516
+
+ []
+
+[20 <E:/Academic/2014/survey/report/mail/images/interference.png>]
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+
+ []
+
+<images/hack2.jpg, id=94, 669.2202pt x 374.8404pt>
+File: images/hack2.jpg Graphic file (type jpg)
+ <use images/hack2.jpg>
+Package pdftex.def Info: images/hack2.jpg used on input line 530.
+(pdftex.def)             Requested size: 334.60928pt x 187.41974pt.
+
+[21
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 536--537
+
+ []
+
+<images/prov.png, id=98, 727.518pt x 497.6994pt>
+File: images/prov.png Graphic file (type png)
+ <use images/prov.png>
+Package pdftex.def Info: images/prov.png used on input line 547.
+(pdftex.def)             Requested size: 363.75812pt x 248.84909pt.
+ [22 <E:/Academic/2014/survey/report/mail/images/hack2.jpg>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 553--554
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 555--557
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 558--560
+
+ []
+
+[23 <E:/Academic/2014/survey/report/mail/images/prov.png>]
+Chapter 6.
+[24
+
+]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ô in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 588--589
+[]$\OT1/cmtt/m/n/10 http : / / www . radio-[]electronics . com / info / propaga
+tion / multipath /$
+ []
+
+[25
+
+] (E:\Academic\2014\survey\report\mail\report.aux) ) 
+Here is how much of TeX's memory you used:
+ 1814 strings out of 494049
+ 24364 string characters out of 3155739
+ 86935 words of memory out of 3000000
+ 5103 multiletter control sequences out of 15000+200000
+ 7551 words of font info for 27 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 27i,6n,24p,941b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
+<G:/miktex/fonts/type1/publ
+ic/amsfonts/cm/cmbx10.pfb><G:/miktex/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<G:/miktex/fonts/type1/public/amsfonts/cm/cmbx9.pfb><G:/miktex/fonts/type1/publ
+ic/amsfonts/cm/cmbxti10.pfb><G:/miktex/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><G:/miktex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><G:/miktex/fonts/type1/pu
+blic/amsfonts/cm/cmti10.pfb><G:/miktex/fonts/type1/public/amsfonts/cm/cmtt10.pf
+b>
+Output written on report.pdf (27 pages, 1371438 bytes).
+PDF statistics:
+ 140 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+
