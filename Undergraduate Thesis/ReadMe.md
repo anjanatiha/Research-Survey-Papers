@@ -1,6 +1,5 @@
 #A Survey on Application of Cloud Computing for Sensor Network
 
-*Abstract
 A sensor network consists of sensors that spread out several hundred instances,which sample the physical
 data of the environment. The data is stored temporarily in local nodes and transmitted to the sink
 node.This new network can deliver several applications that create valued services for consumers. Cloud
