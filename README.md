@@ -9,8 +9,8 @@ Research Papers, Survey Papers from Undergard and Graduate Studies
 
 3. Machine Learning : Current Trend in Machine Learning Algorithms and Application on Health Sensor Data
 
-#4. Masters Project : Intelligent Chatbot using Deep Learning
+# 4. Masters Project : Intelligent Chatbot using Deep Learning
 
-#5. Undergraduate Thesis : A Survey on Application of Cloud Computing for Sensor Network
+# 5. Undergraduate Thesis : A Survey on Application of Cloud Computing for Sensor Network
 
 6. Web Search and Information Retrieval : Text Summerization Techniques
